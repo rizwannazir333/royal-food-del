@@ -1,0 +1,6 @@
+{
+  "name": "Royal Kitchen Haute Cuisine Privée",
+  "description": "Bespoke Michelin-pedigree gastronomy delivered in heated hand-hammered brass cloches with white-glove butler service across London's prime estates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
